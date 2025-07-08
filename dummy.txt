@@ -1,2 +1,0 @@
-this is a dummy file to test 
-line 2 of dummyfile 
